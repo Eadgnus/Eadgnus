@@ -1,17 +1,14 @@
 ## Hey 👋, This is 탁성대
 [![Gmail Badge](https://img.shields.io/badge/-de_crystal@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:de_crystal@naver.com)](mailto:de_crystal@naver.com) [![Github Badge](https://img.shields.io/badge/-Eadgnus-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Eadgnus/)](https://www.github.com/Eadgnus/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=추후 수정/)](추후 수정/) <p align='left'>자기소개
 
-[![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eadgnus&show_icons=true&theme=radical)
 
-![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eadgnus&repo=fire_yolov5)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadgnus)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
-
-[![eadgnus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eadgnus)](https://github.com/anuraghazra/github-readme-stats)
+[![eadgnus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eadgnus)](https://github.com/eadgnus/github-readme-stats)
 
 안녕하세요, 저는 AI 개발자로 일하고 싶은 AI 개발자 탁성대입니다. 
 저는 레스토랑에서 서빙 경험을 쌓았습니다. 이 경험에서 제가 배운 것은 고객 서비스가 어떤 일이든 매우 중요하다는 것입니다. 고객에게 친절하고 빠른 서비스를 제공하는 것은 항상 제 목표였습니다. 이 경험을 통해 제가 조직에서 일하면서도 고객에게 최상의 서비스를 제공할 수 있을 것입니다.
