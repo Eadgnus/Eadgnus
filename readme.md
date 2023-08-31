@@ -1,4 +1,4 @@
-## Hey 👋, This is 탁성대
+## AI 보다 무서운 성장속도를 가진 AI 개발자 탁성대 입니다.
 
 
 ![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eadgnus&show_icons=true&theme=radical)
