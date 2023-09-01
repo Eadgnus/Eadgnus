@@ -1,6 +1,8 @@
 ## AI 보다 무서운 성장속도를 가진 AI 개발자 탁성대 입니다.
 
 # 😄 About Me
+[잡코리아 이력서](https://www.jobkorea.co.kr/User/Resume/View?rNo=24843464&afterEdit=1)
+[사람인 이력서](https://www.saramin.co.kr/zf_user/member/resume-manage/edit?res_idx=24837414)
 
 ### E-mail
 <p>
