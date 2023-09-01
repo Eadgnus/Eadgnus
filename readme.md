@@ -69,12 +69,14 @@
 #
 
 
-
+<div>
+  <p>
 ![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eadgnus&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadgnus&layout=compact&theme=tokyonight)
-
+</p>
+</div>
 
 ## 간단한 소개
 저는 고등학교와 대학교에서는 현재 하고 있는 것과는 전혀 다른 분야를 배우고 경험했습니다. 전역후에도 시간을 보내면서 다른 일을 하곤 했지만, 우연히 보게된 싸피 광고를 보고 이제는 이런 것을 배워보아야겠다고 생각했습니다. 코딩을 배우고 시작하면서는 다른 전공생들과 경험자들을 제치며 상위권의 성적을 유지하고 노력하고 있습니다. 
