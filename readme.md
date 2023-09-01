@@ -72,8 +72,6 @@
 <div>
   <p>
 ![eadgnus's GitHub stats](https://github-readme-stats.vercel.app/api?username=eadgnus&show_icons=true&theme=radical)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eadgnus&layout=compact&theme=tokyonight)
 </p>
 </div>
