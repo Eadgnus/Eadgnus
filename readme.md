@@ -14,7 +14,7 @@
 
 ### PortFolio
 <p>
-  <a href="[https://morning-collarbone-330.notion.site/67674077d0674768b38445ddbf3883d1](https://www.notion.so/AI-AI-aacf0e01b9424e15a89d37ddf31becab)" target="_blank">
+  <a href="https://www.notion.so/AI-AI-aacf0e01b9424e15a89d37ddf31becab" target="_blank">
     <img src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&logo=notion&logoColor=black"/>
   </a>
 </p>
