@@ -7,7 +7,7 @@
 
 ### E-mail
 <p>
-  <a href="mailto:de_crystal@naver.com" target="_blank">
+  <a href="mailto:sosoeadgnus@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/de_crystal@naver.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
